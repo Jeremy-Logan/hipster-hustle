@@ -7,16 +7,25 @@
     "url": "https://github.com/contentful-userland/gatsby-contentful-starter/issues"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
+    "eslint-utils": "^2.0.0",
     "gatsby-image": "^2.3.1",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-sharp": "^2.5.4",
     "gatsby-source-contentful": "^2.2.7",
     "gatsby-transformer-remark": "^2.7.1",
     "gatsby-transformer-sharp": "^2.4.4",
-    "lodash": "^4.17.11",
+    "kind-of": "^6.0.3",
+    "lodash": "^4.17.15",
+    "lodash.mergewith": "^4.6.2",
+    "lodash.template": "^4.5.0",
+    "minimist": "^1.2.5",
+    "mixin-deep": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.0",
+    "serialize-javascript": "^3.0.0",
+    "set-value": "^3.0.2",
     "sharp": "^0.22.0"
   },
   "devDependencies": {
